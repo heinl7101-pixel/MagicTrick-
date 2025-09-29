@@ -1,2 +1,13 @@
-# MagicTrick-
-"An amazing magic trick app that reveals hidden numbers - Built with Kivy Python"
+# MagicTrick - အကြားအမြင် မှော်ဆရာမ 🔮
+
+မြန်မာလို ရေးထားသော မှော်သင်္ချာ App တစ်ခုဖြစ်ပါသည်။
+
+## 🌟 Features
+- မှော်ဆရာမ Theme UI
+- ၉ ဂဏန်း၏ လျှို့ဝှက်ချက်ကိုအသုံးပြုခြင်း
+- အကြားအမြင်ရသူအထင်ဖြင့် ဂဏန်းခန့်မှန်းခြင်း
+- မြန်မာစာ ပြည့်စုံစွာပါဝင်
+
+## 🚀 Installation
+```bash
+python main.py
